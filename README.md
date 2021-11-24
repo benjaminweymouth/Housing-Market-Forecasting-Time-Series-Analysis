@@ -1,4 +1,4 @@
-# -fintech-project2-machine-learning
+# Fintech Project2 Machine Learning
 Project 2 Github repo
 
 ![ProjectLogo](/Resources/2.png)
