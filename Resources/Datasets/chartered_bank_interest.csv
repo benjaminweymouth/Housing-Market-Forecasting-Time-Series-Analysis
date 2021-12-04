@@ -1,30 +1,4 @@
-﻿TERMS AND CONDITIONS,,,,,,,,,,
-https://www.bankofcanada.ca/terms/,,,,,,,,,,
-,,,,,,,,,,
-NAME,,,,,,,,,,
-Interest rates posted for selected products by the major chartered banks,,,,,,,,,,
-,,,,,,,,,,
-DESCRIPTION,,,,,,,,,,
-"Weekly Wednesday, rates in percentage",,,,,,,,,,
-,,,,,,,,,,
-LINK,,,,,,,,,,
-https://www.bankofcanada.ca/?p=205791,,,,,,,,,,
-,,,,,,,,,,
-SERIES,,,,,,,,,,
-id,label,description,,,,,,,,
-V80691311,Prime rate, ,,,,,,,,
-V80691333,1-year,Conventional mortgage,,,,,,,,
-V80691334,3-year,Conventional mortgage,,,,,,,,
-V80691335,5-year,Conventional mortgage,,,,,,,,
-V80691339,1-year,Guaranteed investment certificates,,,,,,,,
-V80691340,3-year,Guaranteed investment certificates,,,,,,,,
-V80691341,5-year,Guaranteed investment certificates,,,,,,,,
-V80691336,5-year personal fixed term,,,,,,,,,
-V80691337,"Daily Interest Savings (balances over $100,000)",,,,,,,,,
-V80691338,Non-Chequable Savings Deposits,,,,,,,,,
-,,,,,,,,,,
-OBSERVATIONS,,,,,,,,,,
-date,Prime rate,1-year Conventional mortgage,3-year Conventional mortgage,5-year Conventional mortgage,1-year GIC,3-year GIC,5-year GIC,5-year personal fixed term,"Daily Interest Savings (balances over $100,000)",Non-Chequable Savings Deposits
+﻿date,Prime rate,1-year Conventional mortgage,3-year Conventional mortgage,5-year Conventional mortgage,1-year GIC,3-year GIC,5-year GIC,5-year personal fixed term,"Daily Interest Savings (balances over $100,000)",Non-Chequable Savings Deposits
 1967-04-05,,,,,,,,,,4.5
 1967-04-12,,,,,,,,,,4.5
 1967-04-19,,,,,,,,,,4.5
