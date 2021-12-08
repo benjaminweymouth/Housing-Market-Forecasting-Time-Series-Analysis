@@ -1,5 +1,4 @@
-# Fintech Project2 Machine Learning
-Project 2 Github repo
+# Canadian Housing Market Forecasting: Time Series Analysis
 
 ![ProjectLogo](/Resources/2.png)
 ## Introduction
