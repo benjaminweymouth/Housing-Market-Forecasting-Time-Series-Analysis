@@ -14,7 +14,7 @@ In order to prove our analysis we will utilize various sources. We will utilize 
 
 For our feature selection we will use Residential Mortgage figures, The Housing Affordability Index, Prime rate figures and figures outlining the 5-year Conventional mortgage in Canada.
 
-## Conclusions 
+## Conclusions: Quantitative, Qualitative and Overall Trends
 
 Quantitative Conclusion:  
 
@@ -23,6 +23,11 @@ The quantitative conclusion is that the current large trends will continue with 
 Qualitative Conclusion:
 
 The Negative sentiment articles in the canadian press ros significantly during the last period corroborating our quantitative results of a an imminent change in the actual trends, there is a significant worry about the change in the Canadian Housing Market especially with the retraction of the low interest rates introduced during Covid by Bank of Canada making mortgages higher and driving the loans rates to a newer high.
+
+Overall Conclusion: 
+
+
+We conclude that from both pipelines, there is a an imminent change coming which would align with the downturn that was in our hypothesis. 
 
 NLP Analysis: [ClickforNLP](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
