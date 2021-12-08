@@ -26,8 +26,9 @@ The Negative sentiment articles in the canadian press ros significantly during t
 
 Overall Conclusion: 
 
+We conclude that from both pipelines, there is a an imminent change coming which would align with the downturn that was in our hypothesis. We believe that the three pipelines in our analysis shown in our Jupyter notebooks support this conclusion. 
 
-We conclude that from both pipelines, there is a an imminent change coming which would align with the downturn that was in our hypothesis. 
+## Jupyter Notebooks (3 pipeline analysis) 
 
 NLP Analysis: [ClickforNLP](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
