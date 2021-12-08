@@ -14,10 +14,10 @@ In order to prove our analysis we will utilize various sources. We will utilize 
 
 For our feature selection we will use Residential Mortgage figures, The Housing Affordability Index, Prime rate figures and figures outlining the 5-year Conventional mortgage in Canada.
 
-NLP Analysis: ![NLPanalysis](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
+NLP Analysis: [ClickforNLP](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
-VAR Analysis: ![NLPanalysis](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
+VAR Analysis: [ClickforVAR](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
-VARMAX: ![VARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
+VARMAX: [ClickforVARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
 
 
