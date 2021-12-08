@@ -14,6 +14,16 @@ In order to prove our analysis we will utilize various sources. We will utilize 
 
 For our feature selection we will use Residential Mortgage figures, The Housing Affordability Index, Prime rate figures and figures outlining the 5-year Conventional mortgage in Canada.
 
+## Conclusions 
+
+Quantitative Conclusion:  
+
+The quantitative conclusion is that the current large trends will continue with some peaks and valleys. In short, since the Housing Affordability Index predicted to go up- this means that it will be more difficult for Canadians to afford a home. Both VAR and VARMAX models support this conclusion
+
+Qualitative Conclusion:
+
+The Negative sentiment articles in the canadian press ros significantly during the last period corroborating our quantitative results of a an imminent change in the actual trends, there is a significant worry about the change in the Canadian Housing Market especially with the retraction of the low interest rates introduced during Covid by Bank of Canada making mortgages higher and driving the loans rates to a newer high.
+
 NLP Analysis: [ClickforNLP](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
 VAR Analysis: [ClickforVAR](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
