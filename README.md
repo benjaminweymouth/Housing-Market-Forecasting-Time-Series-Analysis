@@ -33,7 +33,7 @@ NLP Analysis: [ClickforNLP](https://github.com/benjaminweymouth/-fintech-project
 
 VAR Analysis: [ClickforVAR](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
-VARMAX: [ClickforVARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
+VARMAX with Auto-ARIMA: [ClickforVARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
 
 ## PowerPoint Slides (Analysis and References) 
 
