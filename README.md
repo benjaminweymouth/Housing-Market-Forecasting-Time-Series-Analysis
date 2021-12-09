@@ -35,7 +35,7 @@ VAR Analysis: [ClickforVAR](https://github.com/benjaminweymouth/-fintech-project
 
 VARMAX: [ClickforVARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
 
-## PowerPoint Slides 
+## PowerPoint Slides (Analysis and References) 
 
 Download the PowerPoint: [ClickforPPT](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Resources/Project%202_Group%202_Canadian%20Housing%20Markets%20.pptx?raw=true) 
 
