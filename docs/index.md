@@ -1,6 +1,4 @@
-# Canadian Housing Market Forecasting: Time Series Analysis
-
-##  Quantitative, Qualitative and Overall Trends
+##  Quantitative Analysis, Qualitative and Overall Trends
 
 Quantitative Analysis:  
 
