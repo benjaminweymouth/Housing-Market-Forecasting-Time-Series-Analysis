@@ -1,6 +1,6 @@
 # Canadian Housing Market Forecasting: Time Series Analysis
 
-![ProjectLogo](/Resources/2.png)
+![ProjectLogo](/Resources/2v2.png)
 ## Introduction
 This jupyter notebook will utilize VAR, VARMAX and auto-arima to look at the long-term trends in the Canadian housing market to give us some indication of the future trends. VAR, VARMAX and auto-ARIMA will provide predictive modelling using multivariate analysis, similar to the VAR analysis. However, this will be a different analysis using VARMAX.
 ![PipeLine](/Resources/Images/AnalyticalPipeline4.png)
