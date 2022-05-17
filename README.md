@@ -29,15 +29,15 @@ We conclude that from both pipelines, there is a an imminent change coming which
 
 ## Jupyter Notebooks (3 pipeline analysis) 
 
-NLP Analysis: [ClickforNLP](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
+NLP Analysis: [Click for NLP](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
-VAR Analysis: [ClickforVAR](https://github.com/benjaminweymouth/Housing-Market-Forecasting-Time-Series-Analysis/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
+VAR Analysis: [Click for VAR](https://github.com/benjaminweymouth/Housing-Market-Forecasting-Time-Series-Analysis/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
 
-VARMAX with Auto-ARIMA: [ClickforVARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
+VARMAX with Auto-ARIMA: [Click for VARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
 
 ## PowerPoint Slides (Analysis and References) 
 
-Download the PowerPoint: [ClickforPPT](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Resources/Project%202_Group%202_Canadian%20Housing%20Markets%20.pptx?raw=true) 
+Download the PowerPoint: [Click for PPT](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Resources/Project%202_Group%202_Canadian%20Housing%20Markets%20.pptx?raw=true) 
 
 
 
