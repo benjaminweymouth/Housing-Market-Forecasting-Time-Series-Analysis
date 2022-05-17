@@ -31,7 +31,7 @@ We conclude that from both pipelines, there is a an imminent change coming which
 
 NLP Analysis: [ClickforNLP](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
 
-VAR Analysis: [ClickforVAR](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/NLP%20Qualitative%20Analysis.ipynb) 
+VAR Analysis: [ClickforVAR](https://github.com/benjaminweymouth/Housing-Market-Forecasting-Time-Series-Analysis/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
 
 VARMAX with Auto-ARIMA: [ClickforVARMAX](https://github.com/benjaminweymouth/-fintech-project2-machine-learning/blob/main/Python%20Code/Vector%20Autoregression_Multivariate%20Time%20Series.ipynb) 
 
